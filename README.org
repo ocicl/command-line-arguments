@@ -1,0 +1,10 @@
+* command-line-arguments
+
+Trivial command-line argument parsing library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fare/command-line-arguments.git   |
+| commit  | 5008c4e  |
+| systems | command-line-arguments |
+|---------+-------------------------------------------|
+
